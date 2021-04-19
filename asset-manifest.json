@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.8d7fd7e2.chunk.js",
-    "main.js.map": "/static/js/main.8d7fd7e2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3fb9b46b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3fb9b46b.js.map",
-    "static/js/2.f044258b.chunk.js": "/static/js/2.f044258b.chunk.js",
-    "static/js/2.f044258b.chunk.js.map": "/static/js/2.f044258b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.f044258b.chunk.js.LICENSE.txt": "/static/js/2.f044258b.chunk.js.LICENSE.txt"
+    "main.js": "https://iampervaze.github.io/sudoku/static/js/main.8d7fd7e2.chunk.js",
+    "main.js.map": "https://iampervaze.github.io/sudoku/static/js/main.8d7fd7e2.chunk.js.map",
+    "runtime-main.js": "https://iampervaze.github.io/sudoku/static/js/runtime-main.c4b6004f.js",
+    "runtime-main.js.map": "https://iampervaze.github.io/sudoku/static/js/runtime-main.c4b6004f.js.map",
+    "static/js/2.025d8257.chunk.js": "https://iampervaze.github.io/sudoku/static/js/2.025d8257.chunk.js",
+    "static/js/2.025d8257.chunk.js.map": "https://iampervaze.github.io/sudoku/static/js/2.025d8257.chunk.js.map",
+    "index.html": "https://iampervaze.github.io/sudoku/index.html",
+    "static/js/2.025d8257.chunk.js.LICENSE.txt": "https://iampervaze.github.io/sudoku/static/js/2.025d8257.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3fb9b46b.js",
-    "static/js/2.f044258b.chunk.js",
+    "static/js/runtime-main.c4b6004f.js",
+    "static/js/2.025d8257.chunk.js",
     "static/js/main.8d7fd7e2.chunk.js"
   ]
 }
